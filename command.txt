@@ -1,2 +1,3 @@
 1. stage and commit changes with message. First, to state the changes made to the file use "git add" for single file and "git add ." to bring all the files in the staging area. then use "git commit -m " to commit changes with messages.
 2. "code command.txt" will open the command.txt file inside the vs code editor which is different than vim or nano editor.
+3. "git log" command is used to show recent git commits to the git tree... FYI to save changes in the nano editor press Ctrl + O (letter O) and press Enter and to exit press Ctrl + x(letter x). 
