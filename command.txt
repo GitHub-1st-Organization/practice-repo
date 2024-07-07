@@ -1,0 +1,1 @@
+1. stage and commit changes with message. First, to state the changes made to the file use "git add" for single file and "git add ." to bring all the files in the staging area. then use "git commit -m " to commit changes with messages.
